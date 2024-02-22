@@ -16,5 +16,3 @@
 * Nodule B : 79, D : 2705
 * Pneumonia    B : 120, D : 322
 * Pneumothorax B : 98, D : 2194
-
-
