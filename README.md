@@ -2,7 +2,7 @@
 ## by  I.A.I with Korea AI Institute  
 
 #### • APPROCH
-* Survey paper: `A survey on deep learning in medical image analy`
+* Survey paper: `A survey on deep learning in medical image analyze`
 * I would like to propose a new augmentation to overcome the limitation of the number of images when using open data.
 * Engineering approach. Various experiments based on deep learning.
 
